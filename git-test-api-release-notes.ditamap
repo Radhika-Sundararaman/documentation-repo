@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//AIR Worldwide//DTD DITA Authoring Map//EN" "map.dtd">
+<map id="map_gdp_gb1_15b">
+ <title>GIT test </title>
+    <topicmeta>
+        <navtitle></navtitle>
+    </topicmeta>
+    <topicref href="cloud_apis_all/ts_api_change-log_intro.dita"/>
+    <topicref href="cloud_apis_all/cv_api-change-log.dita"/>
+    <topicref href="cloud_apis_all/tsre_api_change-log_whats-new-2022.dita"/>
+</map>
