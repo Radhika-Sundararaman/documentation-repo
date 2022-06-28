@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//AIR Worldwide//DTD DITA Authoring Map//EN" "map.dtd">
+<map id="ts-tsre-api-workflows_keys">
+<title>API and database keys</title>    
+    <!--Preview release keys -->
+    <keydef href="ts-tsre_prev-api-change-log-intro.dita" keys="k_ts-tsre_prev-api-change-log-intro"/>
+    <keydef href="ts-tsre_prev-rel-api-change-log_2022.dita" keys="k_ts-tsre_prev-rel-api-change-log_2022"/> 
+    
+    <!--TS Changelog keys -->
+    <keydef href="ts_api_change-log_intro.dita" keys="k_ts_api_change-log_intro"/>
+    <keydef href="ts_api_change-log_whats-new-section-2022.dita" keys="k_ts_api_change-log_whats-new-section-2022"/>
+    <keydef href="ts_api_change-log_whats-new-section-2021.dita" keys="k_ts_api_change-log_whats-new-section-2021"/>
+    <keydef href="ts_api_change-log_whats-new-section-2020.dita" keys="k_ts_api_change-log_whats-new-section-2020"/>
+    <keydef href="ts_api_change-log_revision-hist.dita" keys="k_ts_api_change-log_revision-hist"/>
+    
+    <!--TS Re Changelog keys -->
+    <keydef href="tsre_api_change-log_intro.dita" keys="k_tsre_api_change-log_intro"/>
+    <keydef href="tsre_api_change-log_whats-new-2022.dita" keys="k_tsre_api_change-log_whats-new-2022"/>
+    <keydef href="tsre_api_change-log_whats-new-2021.dita" keys="k_tsre_api_change-log_whats-new-2021"/>
+    <keydef href="tsre_api_change-log_whats-new-2020.dita" keys="k_tsre_api_change-log_whats-new-2020"/>
+    
+    
+    <!--TS Release notes keys -->   
+    <keydef href="ts_api-release-notes_intro.dita" keys="k_ts_api-release-notes_intro"/>
+    <keydef href="ts_api_release-notes_create-reinsurance-prgm-treaties.dita" keys="k_ts_api_release-notes_create-reinsurance-prgm-treaties"/>
+    <keydef href="ts_api_release-notes_deprecated-objects-properties-enums.dita" keys="k_ts_api_release-notes_deprecated-objects-properties-enums"/>
+    
+    <!--TS Re API Release Notes keys -->
+    <keydef href="tsre_api-release-notes_intro.dita" keys="k_tsre_api-release-notes_intro"/>
+    <keydef href="tsre_api-release-notes_new-objects-properties-enums.dita" keys="k_tsre_api-release-notes_new-objects-properties-enums"/>
+    <keydef href="tsre_api-release-notes_whats-new_2022.dita" keys="k_tsre_api-release-notes_whats-new_2022"/>  
+    <keydef href="tsre_api-release-notes_elt-ulf-conversion.dita" keys="k_tsre_api_rel_notes_elt_ulf_conversion"/>
+    <keydef href="tsre_api-release-notes_combine-company-loss-files.dita" keys="k_tsre_api-release-notes_combine-company-loss-files"/>
+    <keydef href="tsre_api-release-notes_updated-reins-prgm-mgmt-data-namespace-creps-loss-flow.dita" keys="k_tsre_api-release-notes_updated-reins-prgm-mgmt-data-namespace-creps-loss-flow"/>
+    <keydef href="tsre_api-release-notes_deprecated-objects-properties-enums.dita" keys="k_ref_tsre_api-rel-notes_deprecated-objects-properties-enums"/>
+    <keydef href="tsre_api-release-notes_changed-objects-properties-enums.dita" keys="k_ref_tsre_api-rel-notes_changed-objects-properties-enums"/>
+    <keydef href="tsre_api_release-notes_upload-loss-res-to-analyzeRe.dita" keys="k_tsre_api_release-notes_upload-loss-res-to-analyzeRe"/>
+    <keydef href="tsre_api_release-notes_get-prgm-loss-template.dita" keys="k_tsre_api_release-notes_get-prgm-loss-template"/>
+    <keydef href="tsre_api_release-notes_get-port-loss-template.dita" keys="k_tsre_api_release-notes_get-port-loss-template"/>
+    <keydef href="tsre_api_release-notes_get-mul-prgm-loss-templates.dita" keys="k_tsre_api_release-notes_get-mul-prgm-loss-templates"/>
+    <keydef href="tsre_api-release-notes_new-loss-analyses-templates.dita" keys="k_tsre_api-release-notes_new-loss-analyses-templates"/>
+    
+    <!--Database update -->
+    <keydef href="ts_api-release-notes_db-updates.dita" keys="k_ts_api-release-notes_db-updates"/>
+    <keydef href="tsre_api-release-notes_db-updates.dita" keys="k_tsre_api-release-notes_db-updates"/>
+    
+    <!--Common workflow keys -->
+    <!--
+    <keydef href="ts-tsre_api-workflows_man-reins-prgms.dita" keys="k_ts-tsre_api-workflows_man-reins-prgms"/>
+    <keydef href="ts-tsre_api-workflows_add-reins-treaty.dita" keys="k_ts-tsre-api-workflows_add-reins-treaty"/>
+    <keydef href="ts-tsre_api-workflows_get-reins-prgm.dita" keys="k_ts-tsre-api-workflows_get-reins-prgm"/>
+    <keydef href="ts-tsre_api-workflows_upd-reins-prgms.dita" keys="k_ts-tsre-api-workflows_upd-reins-prgms"/>
+    <keydef href="ts-tsre_api-workflows_del-reins-trea.dita" keys="k_ts-tsre-api-workflows_del-reins-trea"/>
+    
+    <keydef href="ts-tsre_api-workflows_first-steps-tsre-apis.dita" keys="k_ts-tsre-api-workflows_first-steps"/>
+    <keydef href="ts-tsre_api-workflows_get-st_import-exp.dita" keys="k_ts-tsre-api-workflows_get-st_import-exp"/>
+    <keydef href="ts-tsre_api-workflows_get-reins-prgm.dita" keys="k_ts-tsre-api-workflows_get-reins-prgm"/>
+    <keydef href="ts-tsre_api-workflows_get-st_cr-comp.dita" keys="k_ts-tsre-api-workflows_get-st_cr-comp"/>
+    <keydef href="ts-tsre_api-workflows_get-st_cr-exp-set-comp.dita" keys="k_ts-tsre-api-workflows_get-st_cr-exp-set-comp"/>
+    <keydef href="ts-tsre_api-workflows_get-st_cr-port.dita" keys="k_ts-tsre-api-workflows_get-st_cr-port"/>
+    <keydef href="ts-tsre_api-workflows_get-st_cr-rein-prgm-clf.dita" keys="k_ts-tsre-api-workflows_get-st_cr-rein-prgm-clf"/>
+    <keydef href="ts-tsre_api-workflows_get-st_cr-rein-prgm.dita" keys="k_ts-tsre-api-workflows_get-st_cr-rein-prgm"/>
+    <keydef href="ts-tsre_api-workflows_get-st_imp-comb-clf.dita" keys="k_ts-tsre-api-workflows_get-st_imp-comb-clf"/>
+    <keydef href="ts-tsre_api-workflows_get-st_imp-curr-year.dita" keys="k_ts-tsre-api-workflows_get-st_imp-curr-year"/>
+    <keydef href="ts-tsre_api-workflows_get-st_run-analysis.dita" keys="k_ts-tsre-api-workflows_get-st_run-analysis"/>  
+    -->
+    <!--Image keys -->
+    <keydef keys="k_img_ts-tsre-api-workflows_man-reins" href="graphics/reinsurance-api.PNG" format="png"/>  
+</map>
